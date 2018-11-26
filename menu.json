@@ -1,0 +1,15 @@
+{
+  "button": [
+    {
+      "type": "view",
+      "name": "应用下载",
+      "url": "https://fir.im/akey"
+    },
+
+    {
+      "type": "view",
+      "name": "帮助中心",
+      "url": "https://akeyhelp.zendesk.com/hc"
+    }
+  ]
+}
