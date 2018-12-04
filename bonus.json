@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "user_levels": [
+      1
+    ],
+    "prizes": [
+      "1"
+    ],
+    "capped_funds": 2000,
+    "toggle": true
+  },
+  {
+    "id": 2,
+    "user_levels": [
+      2,
+      3
+    ],
+    "prizes": [
+      "1",
+      "2",
+      "3"
+    ],
+    "capped_funds": 6600,
+    "toggle": true
+  },
+  {
+    "id": 3,
+    "user_levels": [
+      3
+    ],
+    "prizes": [
+      "1",
+      "2",
+      "3"
+    ],
+    "capped_funds": 7700,
+    "toggle": true
+  },
+  {
+    "id": 4,
+    "user_levels": [
+      2,
+      3
+    ],
+    "prizes": [
+      "1",
+      "2",
+      "3"
+    ],
+    "capped_funds": 7700,
+    "toggle": false
+  }
+]
